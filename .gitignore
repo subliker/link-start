@@ -1,0 +1,5 @@
+.superpowers/
+docs/superpowers/
+.claude/
+dist/
+*.test
